@@ -13,15 +13,14 @@
 1. Stop carrying paper. Log every set on a phone during the workout.
 2. Keep all three people's data in one place so it can be analyzed.
 3. Show progress in a way that stays fair while reps drop and weight goes up week to week.
-4. Serve as a portfolio project that shows backend, data and DevOps skills from real use.
 
 ## 2. Users and access
 
 | User | Role |
 |---|---|
 | Lennon | Admin and lifter |
-| Marifey | Lifter |
-| Myra | Lifter |
+| Lifter 1 | Lifter |
+| Lifter 2 | Lifter |
 
 - **FR-1 (Must):** Each person has their own login. There is no public sign-up; the admin creates accounts.
 - **FR-2 (Must):** Passwords are stored hashed (Argon2 or bcrypt), never in plain text.
